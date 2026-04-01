@@ -1,0 +1,9 @@
+certifi==2026.2.25
+charset-normalizer==3.4.4
+idna==3.11
+Markdown==3.10.2
+pillow==12.1.0
+reportlab==4.4.9
+requests==2.33.0
+tkhtmlview==0.3.2
+urllib3==2.6.3

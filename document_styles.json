@@ -1,0 +1,33 @@
+{
+    "Normal": {
+        "font_family": "CourieNew",
+        "font_size": 12,
+        "bold": false,
+        "italic": false,
+        "color": "#000000"
+    },
+    "Heading 1": {
+        "font_family": "Courier New",
+        "font_size": 20,
+        "bold": true,
+        "italic": false,
+        "color": "#ffffff",
+        "bg_color": "#00ac00"
+    },
+    "Heading 2": {
+        "font_family": "Courier New",
+        "font_size": 18,
+        "bold": true,
+        "italic": false,
+        "color": "#333333",
+        "bg_color": "#54ff54"
+    },
+    "Heading 3": {
+        "font_family": "Courier New",
+        "font_size": 14,
+        "bold": false,
+        "italic": false,
+        "color": "#000000",
+        "bg_color": "#74ff73"
+    }
+}
