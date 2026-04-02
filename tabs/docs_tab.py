@@ -89,7 +89,7 @@ class DocsTab(ttk.Frame):
         else:
             data = self.db.get_document_content(doc_id)
 
-        top = safe_toplevel(self, f"Dokumentum Szerkesztő: {doc_id}", "900x700")
+        top = safe_toplevel(self, f"Dokumentum Szerkesztő: {doc_id}", "900x750")
 
         top_f = ttk.Frame(top, padding=10)
         top_f.pack(fill="x")

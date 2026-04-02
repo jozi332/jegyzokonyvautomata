@@ -16,7 +16,7 @@ class CustomColorPicker(tk.Toplevel):
     def __init__(self, parent, initialcolor="#ffffff", title="Színválasztó"):
         super().__init__(parent)
         self.title(title)
-        self.geometry("320x260")
+        self.geometry("320x280")
         self.resizable(False, False)
         self.transient(parent)
         self.grab_set()
